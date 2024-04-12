@@ -16,6 +16,9 @@ Sou um desenvolvedor apaixonado por criar experiências excepcionais para os usu
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-ea2845?&logo=nestjs)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00dc82?&logo=nuxt.js)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?&logo=next.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)

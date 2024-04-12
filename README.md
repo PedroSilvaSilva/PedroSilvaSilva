@@ -6,7 +6,11 @@
 
 ### Sobre Mim
 Sou um desenvolvedor apaixonado por criar experiências excepcionais para os usuários e soluções eficientes. Trabalho principalmente com JavaScript, Node.js e frameworks modernos de frontend.
+- **NestJS**: para construir aplicações server-side eficientes e escaláveis com TypeScript.
+- **Nuxt.js**: para aplicações Vue.js com server-side rendering, para um carregamento mais rápido e melhor SEO.
+- **Next.js**: que me permite construir aplicações React com server-side rendering e geração de páginas estáticas.
 
+Estou sempre explorando novas tecnologias e atualmente estou envolvido em projetos que utilizam esses frameworks para resolver problemas complexos.
 - 🔭 No momento, estou trabalhando em projetos pessoais e contribuindo para o open source.
 - 🌱 Estou aprendendo mais sobre arquitetura de sistemas, contêineres e Kubernetes.
 - 💬 Pode me perguntar sobre desenvolvimento web, design de sistemas e melhores práticas de codificação.

@@ -1,15 +1,15 @@
 # Olá, eu sou o Pedro Silva! 👋
 
-## Desenvolvedor Full Stack | Focado em Web Development
+## Desenvolvedor Full Stack | Especializado em Desenvolvimento Web
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSilvaSilva&show_icons=true&theme=radical)
+![Estatísticas do GitHub do Pedro](https://github-readme-stats.vercel.app/api?username=PedroSilvaSilva&show_icons=true&theme=radical)
 
 ### Sobre Mim
-Sou um desenvolvedor apaixonado por criar experiências de usuário excepcionais e soluções eficientes. Trabalho com várias tecnologias, mas principalmente JavaScript, Node.js e frameworks modernos de front-end.
+Sou um desenvolvedor apaixonado por criar experiências excepcionais para os usuários e soluções eficientes. Trabalho principalmente com JavaScript, Node.js e frameworks modernos de frontend.
 
-- 🔭 Atualmente estou trabalhando em projetos pessoais e contribuindo para open source.
-- 🌱 Aprendendo mais sobre arquitetura de sistemas, contêineres e Kubernetes.
-- 💬 Pergunte-me sobre desenvolvimento web, design de sistemas e melhores práticas de código.
+- 🔭 No momento, estou trabalhando em projetos pessoais e contribuindo para o open source.
+- 🌱 Estou aprendendo mais sobre arquitetura de sistemas, contêineres e Kubernetes.
+- 💬 Pode me perguntar sobre desenvolvimento web, design de sistemas e melhores práticas de codificação.
 - 📫 Como me encontrar: [LinkedIn](SeuLinkDeLinkedIn) | [Twitter](SeuLinkDeTwitter)
 
 ### Tecnologias e Ferramentas:
@@ -23,7 +23,7 @@ Sou um desenvolvedor apaixonado por criar experiências de usuário excepcionais
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
 
-### Projetos Destaque:
+### Projetos em Destaque:
 
 <a href="URL_DO_REPOSITORIO_NODEMEDICOS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroSilvaSilva&repo=nodemedicos&theme=radical" />
@@ -34,7 +34,7 @@ Sou um desenvolvedor apaixonado por criar experiências de usuário excepcionais
 
 ---
 
-### Últimos Artigos do Blog:
+### Últimos Artigos no Blog:
 
 <!-- BLOG-POST-LIST:START -->
 - [Como construir uma API REST com Node.js](LINK_PARA_O_ARTIGO)
@@ -44,10 +44,11 @@ Sou um desenvolvedor apaixonado por criar experiências de usuário excepcionais
 ### Atividades Recentes:
 
 <!--START_SECTION:activity-->
-1. Abriu a issue X no repositório Y
-2. Enviou um PR para o repositório Z
+1. Abri a issue X no repositório Y
+2. Enviei um PR para o repositório Z
 <!--END_SECTION:activity-->
 
 ---
-⭐️ Do [PedroSilvaSilva](https://github.com/PedroSilvaSilva)
+⭐️ De [PedroSilvaSilva](https://github.com/PedroSilvaSilva)
+
 
